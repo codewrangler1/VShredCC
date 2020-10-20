@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VShredCC</string>
+    <string name="detail_view">Detail View</string>
+    <string name="name">Name:</string>
+    <string name="height">Height:</string>
+    <string name="close">Close</string>
+    <string name="mass">Mass:</string>
+    <string name="hair_color">Hair Color:</string>
+    <string name="skin_color">Skin Color:</string>
+    <string name="eye_color">Eye Color:</string>
+    <string name="birth_year">Birth Year:</string>
+    <string name="gender">Gender:</string>
+    <string name="massTxt">Mass</string>
+    <string name="hair_colorTxt">Hair Color</string>
+    <string name="skin_colorTxt">Skin Color</string>
+    <string name="eye_colorTxt">Eye Color</string>
+    <string name="nameTxt">name</string>
+    <string name="heightTxt">height</string>
+    <string name="birth_yearTxt">Birth Year</string>
+    <string name="genderTxt">Gender</string>
+    <string name="favorite">Favorite</string>
+</resources>

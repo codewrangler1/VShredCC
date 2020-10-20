@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="4dp"
+    android:paddingTop="4dp"
+    android:layout_width="match_parent"
+    android:layout_height="64dp" android:orientation="horizontal"
+    android:gravity="center">
+
+    <TextView
+        android:id="@+id/itemtextview"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="4dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="empty"
+        android:textAlignment="viewStart"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
